@@ -5,9 +5,9 @@
   "main": "index.js",
   "dependencies": {
     "bluebird": "^2.3.0",
-    "knex": "^0.7",
+    "knex": "^0.15.2",
     "lodash": "^3.2",
-    "pg.js": "^4.1"
+    "pg": "^7.6.1"
   },
   "devDependencies": {
     "mocha": "^1.21.4"
